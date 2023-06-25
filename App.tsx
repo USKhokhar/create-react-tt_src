@@ -2,7 +2,7 @@ import reactLogo from './assets/react.svg'
 import reactMegaLogo from './assets/react_mega.svg'
 import viteLogo from './assets/vite.svg'
 import tailwindLogo from './assets/tailwind.svg'
-import reactRouterLogo from './aassets/react_router.svg'
+import reactRouterLogo from './assets/react_router.svg'
 import {Link} from "react-router-dom"
 
 const Component = () => {
