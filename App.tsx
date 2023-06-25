@@ -1,8 +1,8 @@
-import reactLogo from '/react.svg'
-import reactMegaLogo from '/react_mega.svg'
-import viteLogo from '/vite.svg'
-import tailwindLogo from '/tailwind.svg'
-import reactRouterLogo from '/react_router.svg'
+import reactLogo from './assets/react.svg'
+import reactMegaLogo from './assets/react_mega.svg'
+import viteLogo from './assets/vite.svg'
+import tailwindLogo from './assets/tailwind.svg'
+import reactRouterLogo from './aassets/react_router.svg'
 import {Link} from "react-router-dom"
 
 const Component = () => {
